@@ -1,0 +1,1 @@
+<p class="text-center">Copyright WebFurnace - All Rights Reserved </p>
